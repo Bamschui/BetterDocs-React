@@ -1,0 +1,17 @@
+//META{"name":"Westendorf","description":"The gondola lift from Westendorf!","author":"Bamschui","version":"Auto"}*//
+@import url(http://www.hotelpost.co.at/files/dorf_tirol_hotels/Alpenspektakel-Musikreise/Westendorf%20Sommer08%20%28Medium%29.JPG);
+
+:root{
+	--background: url('http://www.hotelpost.co.at/files/dorf_tirol_hotels/Alpenspektakel-Musikreise/Westendorf%20Sommer08%20%28Medium%29.JPG');
+
+	--colour1: rgb(61,58,76);
+	--colour1-active: rgba(61,58,76,0.2);
+
+	--colour1-disabled: rgba(61,58,76,0.2);
+	--colour1-disabled-border: rgb(61,58,76);
+
+	--colour2: rgba(40,40,40,0.4);
+	--colour2-border: rgb(40,40,40);
+
+	--colour3: white;
+}
